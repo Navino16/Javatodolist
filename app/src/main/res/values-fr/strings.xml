@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="Delete">Supprimer</string>
+    <string name="Add_New_Task">Ajouter une nouvelle tâche</string>
+    <string name="Example">Exemple</string>
+    <string name="AlreadyExist">Cette tâche existe déjà</string>
+    <string name="TaskDone">Terminé</string>
+    <string name="Title">Titre</string>
+    <string name="Description">Description</string>
+    <string name="SelectTime">Choisir l\'heure</string>
+    <string name="SelectDate">Choisir la date</string>
+    <string name="FieldEmpty">Merci de remplir tous les champs</string>
+    <string name="Edit">Modifier</string>
+    <string name="EndDate">Date de fin</string>
+    <string name="Date">Date</string>
+    <string name="Time">Heure</string>
+    <string name="EditTask">Editer la tâche</string>
+    <string name="ErrorAddNotification">Une erreur est survenu lors de l\'ajout de notification</string>
+    <string name="EndDueDateTask">Your task has arrived at its due date</string>
+</resources>
